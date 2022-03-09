@@ -32,6 +32,9 @@ PowerCo is a major gas and electricity utility, supplies to corporate, SME(Small
 ## Certification:
 ### This program provide a [digital badge](https://www.theforage.com/badges/uPfFn5H3bZtBFxJh7/McwW9gPCN57xrp9KY/Badge%20of%20completion%20for%20the%20Open-Access%20Data%20Science%20&%20Advanced%20Analytics%20Virtual%20Experience%20Program/Yonghao):
 ![alt text](https://github.com/LuYonghao/BCG_Data_Science_Advanced_Analytics_Program/blob/main/img/Program%20completion%20Badge.png)
+
 ![alt text](https://github.com/LuYonghao/BCG_Data_Science_Advanced_Analytics_Program/blob/main/img/Issue.png)
+
 ![alt text](https://github.com/LuYonghao/BCG_Data_Science_Advanced_Analytics_Program/blob/main/img/forage.png)
+
 ![alt text](https://github.com/LuYonghao/BCG_Data_Science_Advanced_Analytics_Program/blob/main/img/Syllabus.png)
