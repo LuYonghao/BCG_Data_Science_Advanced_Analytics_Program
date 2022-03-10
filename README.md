@@ -1,6 +1,6 @@
 # BCG Data Science Advanced Analytics Program
 
-This is a virtual experience [open source project](https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/GAMMA-Virtual-Experience-Program?ref=uPfFn5H3bZtBFxJh7) provide by BCG company on [forage](https://www.theforage.com/) freely, I will act as a data scientist in BCG GAMMA team to solve business problems for one of their clients. The link to my digital badge.
+This is a virtual experience [open source project](https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/GAMMA-Virtual-Experience-Program?ref=uPfFn5H3bZtBFxJh7) provide by BCG company on [forage](https://www.theforage.com/) freely, I will act as a data scientist in BCG GAMMA team to solve business problems for one of their clients. 
 
 
 ### Program background:
