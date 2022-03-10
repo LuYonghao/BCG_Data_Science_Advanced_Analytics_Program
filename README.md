@@ -22,7 +22,7 @@ PowerCo is a major gas and electricity utility, supplies to corporate, SME(Small
 
 ### Task 3:
   - My colleague has done some work on engineering the features within the cleaned dataset and has calculated a feature which seems to have predictive power. This feature is “the difference between off-peak prices in December and January the preceding year”. Re-create this feature and perform other feature engineering that may help with the model
-  -  train a Random Forest classifier and to evaluate the results in an appropriate manner.
+  - Train a Random Forest classifier and to evaluate the results in an appropriate manner.
 
 ### Task 4:
   - Develop an abstract slide synthesizing all the findings from the project so far, keeping in mind that this will be for the key stakeholders meeting which the Head of the SME division, as well as other various stakeholders, will be attending.
