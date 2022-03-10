@@ -14,18 +14,26 @@ PowerCo is a major gas and electricity utility, supplies to corporate, SME(Small
   -  Formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. 
   -  Communicate your thoughts and findings in an email to your AD, focusing on the data that you would need from the client and the analytical models you would use to test such a hypothesis.
 
+See the [document](https://github.com/LuYonghao/BCG_Data_Science_Advanced_Analytics_Program/blob/main/Task%201/Email.docx) in Task 1 folder to view my work
+
 ### Task 2:
   - Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. 
   - Verify the hypothesis of price sensitivity being to some extent correlated with churn.
   - Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation
+
+See the [ipynb](https://github.com/LuYonghao/BCG_Data_Science_Advanced_Analytics_Program/blob/main/Task%202/Exploratory%20Data%20Analysis.ipynb) in Task 2 folder to view my work
   
 
 ### Task 3:
   - My colleague has done some work on engineering the features within the cleaned dataset and has calculated a feature which seems to have predictive power. This feature is “the difference between off-peak prices in December and January the preceding year”. Re-create this feature and perform other feature engineering that may help with the model
   - Train a Random Forest classifier and to evaluate the results in an appropriate manner.
 
+See the [ipynb](https://github.com/LuYonghao/BCG_Data_Science_Advanced_Analytics_Program/blob/main/Task%203/feature_engineering_and_modelling_model_answer.ipynb) in Task 3 folder to view my work
+
 ### Task 4:
   - Develop an abstract slide synthesizing all the findings from the project so far, keeping in mind that this will be for the key stakeholders meeting which the Head of the SME division, as well as other various stakeholders, will be attending.
+
+See the [powerpoint](https://github.com/LuYonghao/BCG_Data_Science_Advanced_Analytics_Program/blob/main/Task%204/BCG%20Task%204%20slides.pptx) in Task 4 folder to view my work
 
 
 
